@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fborderspj-dev-c1497-authRole",
+      "UnauthRoleArn": "arn:aws:iam::770961405135:role/amplify-fborderspj-dev-c1497-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::770961405135:role/amplify-fborderspj-dev-c1497-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-fborderspj-dev-c1497-deployment",
+      "UnauthRoleName": "amplify-fborderspj-dev-c1497-unauthRole",
+      "StackName": "amplify-fborderspj-dev-c1497",
+      "StackId": "arn:aws:cloudformation:us-east-1:770961405135:stack/amplify-fborderspj-dev-c1497/01d959c0-92db-11f0-bbd5-0e65fc8ff559",
+      "AmplifyAppId": "d2ki4y5h5obg43"
+    },
+    "categories": {
+      "auth": {
+        "FborderAutht": {}
+      }
+    }
+  }
+}
