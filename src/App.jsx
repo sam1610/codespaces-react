@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import * as Recharts from 'recharts';
-
+import "./App.css"
 // --- Mock Data ---
 // This data simulates the items you would fetch from your DynamoDB table.
 // It's structured to match your single-table design with different item types.
